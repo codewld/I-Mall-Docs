@@ -1,0 +1,1 @@
+const e={key:"v-0e192caf",path:"/technology-stack/",title:"\u6280\u672F\u6808",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"I-Mall-Server",slug:"i-mall-server",children:[]},{level:2,title:"I-Mall-Admin",slug:"i-mall-admin",children:[]}],git:{updatedTime:1646580575e3},filePathRelative:"technology-stack/index.md"};export{e as data};
